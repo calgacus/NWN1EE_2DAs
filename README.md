@@ -9,7 +9,7 @@ with this command on Windows\
 nwn_key_unpack /D/Beamdog/00829/data/nwn_base.key /c/Users/myname/dev/NWN1EE_2DAs 
 
 or this one on Mac\
-nwn_key_unpack '/Users/username/Library/Application Support/Steam/steamapps/common/Neverwinter Nights/data' /Users/username/Development/Dev/calgacus/NWN1EE_2DAs
+nwn_key_unpack '/Users/username/Library/Application Support/Steam/steamapps/common/Neverwinter Nights/data/nwn_base.key' /Users/username/Development/Dev/calgacus/NWN1EE_2DAs
 
 Perhaps this will be useful for future projects to fork from and compare versions against.
   
