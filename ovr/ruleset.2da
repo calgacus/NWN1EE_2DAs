@@ -319,7 +319,7 @@
 315  OFFHAND_WEAPON_STRENGTH_MODIFIER                 0.5f
 316  HASTE_MOVEMENT_SPEED_INCREASE_BONUS              150
 317  HASTE_DODGE_AC_INCREASE_AMOUNT                   4
-318  ****                                             ****
+318  ALL_ASSOCIATES_RUN_SCRIPTS                       0
 319  ****                                             ****
 320  ****                                             ****
 321  ****                                             ****
@@ -521,3 +521,4 @@
 517  CHARGEN_ALLOW_CUSTOM_PORTRAITS                   1
 518  CHARGEN_ENABLE_RECOMMENDED_BUTTON                1
 519  MULTICLASS_LIMIT                                 3
+519  ALL_ASSOCIATES_CAN_INTERACT                      0

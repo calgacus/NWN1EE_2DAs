@@ -7,7 +7,7 @@ with this command on Windows\
 nwn_key_unpack /D/Beamdog/00829/data/nwn_base.key /c/Users/username/dev/NWN1EE_2DAs 
 
 or this one on Mac\
-nwn_key_unpack '/Users/username/Library/Application Support/Steam/steamapps/common/Neverwinter Nights/data/nwn_base.key' /Users/username/Development/Dev/username/NWN1EE_2DAs
+nwn_key_unpack '/Users/username/Library/Application Support/Steam/steamapps/common/Neverwinter Nights/data/nwn_base.key' /Users/username/Development/Dev/foldername/allNWN1EE_2DAs
 
 plus any 2da files from that build found in */steamapps/common/Neverwinter Nights/ovr\
 which were just copied into this repos ovr folder manually.
